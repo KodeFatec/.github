@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo-kode.png" alt="Logotipo da Kode" width="180" />
-
 # Kode
 
 **Código com propósito. Aprendizado em evolução.**
