@@ -60,8 +60,8 @@ Ecossistema utilizado de forma recorrente pelo grupo ao longo do curso:
 | Bryan Castilho Garcia | [@BryanCG2008](https://github.com/BryanCG2008) | [Perfil](https://www.linkedin.com/in/bryan-castilho-garcia-43b022323/) |
 | Eduardo Couss de Oliveira | [@couss01](https://github.com/couss01) | [Perfil](https://www.linkedin.com/in/eduardo-couss-de-oliveira-ba08513bb/) |
 | João Victor Batista Ferreira | [@jv744t](https://github.com/jv744t) | [Perfil](https://www.linkedin.com/in/) |
-| Nicolas Trabachini Spinelli | [@usuario](https://github.com/Nicolaspinelli) | [Perfil](https://www.linkedin.com/in/nicolas-spinelli-33229b38a/) |
-| Raphael Scapin Pereira | [@usuario](https://github.com/RaphaelScapin) | [Perfil](https://www.linkedin.com/in/raphael-scapin-pereira-0aa023400/) |
+| Nicolas Trabachini Spinelli | [@Nicolaspinelli](https://github.com/Nicolaspinelli) | [Perfil](https://www.linkedin.com/in/nicolas-spinelli-33229b38a/) |
+| Raphael Scapin Pereira | [@RaphaelScapin](https://github.com/RaphaelScapin) | [Perfil](https://www.linkedin.com/in/raphael-scapin-pereira-0aa023400/) |
 | Vinícius de Lucio Porto | [@Vini150cius](https://github.com/vini150cius) | [Perfil](https://www.linkedin.com/in/viniciusdelucioporto) |
 
 ---
